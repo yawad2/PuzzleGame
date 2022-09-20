@@ -14,5 +14,5 @@ How to Play the puzzle:
 - If the puzzle is solved, it exits the loop and prints a congratulatory message. If it's not solved, it keeps scanning input from user.
 
 Notes:
-wfor loops were used to randomize the arrays according to difficulty levels. a random number from 0 to 3 was generated, and for each number, a move was simulated.
+for loops were used to randomize the arrays according to difficulty levels. a random number from 0 to 3 was generated, and for each number, a move was simulated.
 the longer the loops the harder the puzzle. a lot of numbers were tested and 15, 20, and 25 worked the best. Sometimes the easy puzzle was too easy and the difficulty levels overlapped. 
