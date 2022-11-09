@@ -1,10 +1,4 @@
-/*
- Name: Yousra Awad
- Email: yawad2@u.rochester.edu
- 
- Name: Apsharee Ireen
- Email: aireen@u.rochester.edu
-  */
+
   import java.util.Scanner;
   public class Validate extends Puzzle{
       public int [][]userArray = new int [4][4];
