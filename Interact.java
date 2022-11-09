@@ -1,7 +1,4 @@
-/*
- Name: Yousra Awad
- Email: yawad2@u.rochester.edu
-  */
+
   import java.util.*;
   import java.util.Random;
   public class Interact extends Puzzle{
