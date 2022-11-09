@@ -1,10 +1,4 @@
-/*
- Name: Yousra Awad
- Email: yawad2@u.rochester.edu
- 
- Name: Apsharee Ireen
- Email: aireen@u.rochester.edu
-  */
+
   import java.util.Scanner;
   import java.util.Random;
   public class Puzzle {
